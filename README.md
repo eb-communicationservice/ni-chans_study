@@ -51,8 +51,8 @@ kazuaking
 
 ## 環境
 
-- OS: Windows7
-- IDE: eclipse (出来れば)
+- OS: Windows8
+- IDE: eclipse
 - ソース管理: Git
 - ソース管理ツール: SourceTree
 
@@ -60,7 +60,7 @@ kazuaking
 
 1. 担当から対象者に課題を提出
 2. 対象者は課題が完了、または途中経過の状態で、ソースをGithubへプッシュ、担当者へ連絡(Chatwork)
-3. 担当者はGitbu上でレビューを行う
+3. 担当者はGithub上でレビューを行う
     1. 指摘事項無し
         * 課題完了とし、担当者は次の課題を対象者に指示する
     2. 指摘事項あり
